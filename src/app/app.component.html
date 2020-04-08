@@ -1,0 +1,12 @@
+<div>
+
+</div>
+<div>
+  <button (click)="load()">Load</button>
+</div>
+<div>
+  <viewer *ngIf="!!urn"
+    [urn]="urn"
+    (selectionChanged)="onSelectionChanged()">
+  </viewer>
+</div>

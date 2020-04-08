@@ -1,0 +1,60 @@
+{
+  "_from": "@types/forge-viewer",
+  "_id": "@types/forge-viewer@6.4.1",
+  "_inBundle": false,
+  "_integrity": "sha512-y+NxRsvkewZAzKIoAolqRqQ/rt4xYdArH8dUYrfMjass/el9hKYwRVcPjD2E19TNiBkKeP/6RtRk7NCmdK62+A==",
+  "_location": "/@types/forge-viewer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/forge-viewer",
+    "name": "@types/forge-viewer",
+    "escapedName": "@types%2fforge-viewer",
+    "scope": "@types",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/forge-viewer/-/forge-viewer-6.4.1.tgz",
+  "_shasum": "b4eebfcea4c8f867345d1f5138776dbbce669181",
+  "_spec": "@types/forge-viewer",
+  "_where": "D:\\Dev\\consulting-emea\\engie-starter",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Autodesk Forge Partner Development",
+      "url": "https://github.com/Autodesk-Forge"
+    },
+    {
+      "name": "Alan Smith",
+      "url": "https://github.com/alansmithnbs"
+    }
+  ],
+  "dependencies": {
+    "@types/three": "^0.93.30"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for Forge Viewer",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped#readme",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/forge-viewer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/forge-viewer"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.8",
+  "types": "index",
+  "typesPublisherContentHash": "79250c6500c8283d72a699e4b389b41fd310402de8bb1fd3fbc5a77bf4d787f9",
+  "version": "6.4.1"
+}
