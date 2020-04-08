@@ -26,7 +26,7 @@ export class AppComponent implements OnInit {
 
     public load(): void {
         console.debug(`AppComponent#load`);
-        this.urn = 'dXJuOmFkc2sud2lwcHJvZDpmcy5maWxlOnZmLkhMaGFGa3VuVDVXWXVnVXhwTDkzd1E_dmVyc2lvbj0x';
+        this.urn = 'YOUR_URN';
     }
 
     public onSelectionChanged(): void {
